@@ -1,0 +1,769 @@
+,Name,Location,Age,Phone_no,Current_addr
+0,Mariana Novel,"
+                  Bronx, NY
+                ","
+                  50s
+                  ","
+          (718) 231-0784
+        ","
+              1407 Oakley St
+              Bronx, NY 10469
+            "
+1,John Novel,"
+                  Erie, PA
+                ","
+                  70s
+                  ","
+          (814) 871-2172
+        ","
+              758 E 8th St
+              Erie, PA 16503
+            "
+2,R Novel,"
+                  Clinton, IN
+                ","
+                  70s
+                  ","
+          (765) 832-8705
+        ","
+              14844 S 7th Ave
+              Clinton, IN 47842
+            "
+3,Luisa D Novel,"
+                  Bronx, NY
+                ","
+                  40s
+                  ","
+          (718) 466-5133
+        ","
+              636 E 224th St Apt 1C
+              Bronx, NY 10466
+            "
+4,Frank Novel,"
+                  Erie, PA
+                ","
+                  60s
+                  ","
+          (814) 874-3015
+        ","
+              12 E 9th St Apt 210
+              Erie, PA 16501
+            "
+5,Brian E Novel,"
+                  Troy, MO
+                ","
+                  40s
+                  ","
+          (636) 673-2560
+        ","
+              231 Sydnorville Rd
+              Troy, MO 63379
+            "
+6,Craig R Novel,"
+                  Snohomish, WA
+                ","
+                  50s
+                  ","
+          (425) 821-3546
+        ","
+              18909 State Route 9 SE # 9
+              Snohomish, WA 98296
+            "
+7,Theresa E Novel,"
+                  Rockville, MD
+                ","
+                  60s
+                  ","
+          (301) 208-2789
+        ","
+              10028 Sterling Ter
+              Rockville, MD 20850
+            "
+8,Daniel R Novel,"
+                  Shenandoah, VA
+                ","
+                  30s
+                  ","
+          No previous locations found.
+        ","
+              283 Rocking Page Ln
+              Shenandoah, VA 22849
+            "
+9,Patrick J Novel,"
+                  Erie, PA
+                ","
+                  50s
+                  ","
+          (814) 825-2599
+        ","
+              3823 Davison Ave
+              Erie, PA 16504
+            "
+10,Janet L Novel,"
+                  West Farmington, OH
+                ","
+                  50s
+                  ","
+          (330) 889-6249
+        ","
+              6116 Oak Hill Dr
+              West Farmington, OH 44491
+            "
+11,Jayme Lee Novel,"
+                  New Martinsville, WV
+                ","
+                  30s
+                  ","
+              Loveland, CO
+            
+              Black Hawk, CO
+            ","
+              1022 3rd St
+              New Martinsville, WV 26155
+            "
+12,Kathleen Novel,"
+                  Lawrence, MA
+                ","
+                  40s
+                  ","
+          (978) 686-7185
+        ","
+              102 Beacon St
+              Lawrence, MA 01843
+            "
+13,Edward R Novel,"
+                  Centerville, PA
+                ","
+                  80+
+                  ","
+          (814) 774-8366
+        ","
+              37771 State Highway 77
+              Centerville, PA 16404
+            "
+14,Julianna J Novel,"
+                  Sandusky, OH
+                ","
+                  40s
+                  ","
+          (864) 379-8030
+        ","
+              4610 Bayshore Rd
+              Sandusky, OH 44870
+            "
+15,Michael Joseph Novel,"
+                  Tryon, NC
+                ","
+                  20s
+                  ","
+              Inman, SC
+            
+              Baytown, TX
+            
+              Saint Louis, MO
+            ","
+              2373 US 176 Hwy Unit 2
+              Tryon, NC 28782
+            "
+16,Shahin Novel,"
+                  Los Angeles, CA
+                ","
+                  80+
+                  ","
+          (310) 445-5980
+        ","
+              1408 Barry Ave
+              Los Angeles, CA 90025
+            "
+17,Hugo M Novel,"
+                  Los Angeles, CA
+                ","
+                  50s
+                  ","
+          (213) 483-8425
+        ","
+              1648 N Alvarado St
+              Los Angeles, CA 90026
+            "
+18,Shirley R Novel,"
+                  Moundsville, WV
+                ","
+                  80+
+                  ","
+          (304) 845-3205
+        ","
+              1107 Tomlinson Ave
+              Moundsville, WV 26041
+            "
+19,Wanda L Novel,"
+                  Ballwin, MO
+                ","
+                  80+
+                  ","
+          (636) 458-6568
+        ","
+              306 Sunrise Blvd
+              Ballwin, MO 63021
+            "
+20,Carla Novel,"
+                  Fort Lauderdale, FL
+                ","
+                  40s
+                  ","
+          (908) 354-2134
+        ","
+              2316 SW 34th Ter
+              Fort Lauderdale, FL 33312
+            "
+21,Gorge M Novel,"
+                  South Miami, FL
+                ","
+                  50s
+                  ","
+          (305) 740-8362
+        ","
+              5875 SW 66th St
+              South Miami, FL 33143
+            "
+22,Gail A Novel,"
+                  Shelby, OH
+                ","
+                  70s
+                  ","
+          (419) 522-1162
+        ","
+              16 Monroe Ave
+              Shelby, OH 44875
+            "
+23,James E Novel,"
+                  Moundsville, WV
+                ","
+                  60s
+                  ","
+          (304) 845-2217
+        ","
+              1950 Fork Ridge Rd
+              Moundsville, WV 26041
+            "
+24,Justin Novel,"
+                  Beverly Hills, CA
+                ","
+                  30s
+                  ","
+              West Hollywood, CA
+            ","
+              139 N Wetherly Dr
+              Beverly Hills, CA 90211
+            "
+25,Carol Ann Novel,"
+                  Moundsville, WV
+                ","
+                  60s
+                  ","
+          (304) 843-2681
+        ","
+              103 Sandy Ave
+              Moundsville, WV 26041
+            "
+26,Natalie L Novel,"
+                  Franklin, TN
+                ","
+                  40s
+                  ","
+              Knoxville, TN
+            
+              Marietta, GA
+            
+              Conyers, GA
+            
+              Roswell, GA
+            ","
+              1561 Championship Blvd
+              Franklin, TN 37064
+            "
+27,Ollie B Novel,"
+                  Dyersburg, TN
+                ","
+                  70s
+                  ","
+          (731) 287-7872
+        ","
+              904 Scott St
+              Dyersburg, TN 38024
+            "
+28,Lovenia N Novel,"
+                  Sunshine, LA
+                ","
+                  70s
+                  ","
+          (225) 642-5583
+        ","
+              PO Box 543
+              Sunshine, LA 70780
+            "
+29,Jessica E Novel,"
+                  Mechanicsburg, PA
+                ","
+                  40s
+                  ","
+          (208) 639-2853
+        ","
+              259 Acorn Ct
+              Mechanicsburg, PA 17055
+            "
+30,Ramona Novel,"
+                  Luray, VA
+                ","
+                  60s
+                  ","
+          (202) 388-6439
+        ","
+              310 Luray Ave
+              Luray, VA 22835
+            "
+31,Carol Y Novel,"
+                  Chesterfield, MO
+                ","
+                  80+
+                  ","
+          (310) 532-0111
+        ","
+              1621 Walpole Dr Apt A
+              Chesterfield, MO 63017
+            "
+32,Rocqel T Novel,"
+                  New Orleans, LA
+                ","
+                  20s
+                  ","
+          No previous locations found.
+        ","
+              8018 Read Blvd
+              New Orleans, LA 70127
+            "
+33,Jessica E Novel,"
+                  Mechanicsburg, PA
+                ","
+                  40s
+                  ","
+          (208) 639-2853
+        ","
+              259 Acorn Ct
+              Mechanicsburg, PA 17055
+            "
+34,Robert P Novel,"
+                  Washington, DC
+                ","
+                  70s
+                  ","
+          (202) 966-2578
+        ","
+              4301 Massachusetts Ave NW
+              Washington, DC 20016
+            "
+35,Stephen A Novel Sr,"
+                  Tijeras, NM
+                ","
+                  80+
+                  ","
+              Albuquerque, NM
+            
+              South Portland, ME
+            
+              Peoria, IL
+            
+              Raymond, ME
+            ","
+              43 Woodland Hill Dr
+              Tijeras, NM 87059
+            "
+36,Vernon L Novel,"
+                  Saint Louis, MO
+                ","
+                  50s
+                  ","
+          (314) 595-8516
+        ","
+              12315 Francine Dr
+              Saint Louis, MO 63146
+            "
+37,Leonides Novel,"
+                  Worcester, MA
+                ","
+                  60s
+                  ","
+          (508) 756-6591
+        ","
+              226 Dewey St
+              Worcester, MA 01610
+            "
+38,James A Novel,"
+                  Albuquerque, NM
+                ","
+                  50s
+                  ","
+          (505) 369-5631
+        ","
+              12801 Indian School Rd NE
+              Albuquerque, NM 87112
+            "
+39,Maria Novel,"
+                  Washington, DC
+                ","
+                  60s
+                  ","
+          (206) 527-0845
+        ","
+              1912 M St NE Apt 3
+              Washington, DC 20002
+            "
+40,Don L Novel,"
+                  New Albany, OH
+                ","
+                  50s
+                  ","
+          (614) 855-3241
+        ","
+              6688 Headwater Trl
+              New Albany, OH 43054
+            "
+41,Martin M Novel,"
+                  The Villages, FL
+                ","
+                  70s
+                  ","
+          (845) 942-2037
+        ","
+              2938 Adrienne Way
+              The Villages, FL 32163
+            "
+42,John Novel,"
+                  Dayton, OH
+                ","
+                  60s
+                  ","
+          (937) 439-4140
+        ","
+              505 Crawley Run Apt 103
+              Dayton, OH 45458
+            "
+43,Mable Novel,"
+                  New Orleans, LA
+                ","
+                  80+
+                  ","
+          (504) 943-5016
+        ","
+              2900 Pocahontas St
+              New Orleans, LA 70126
+            "
+44,Derek R Novel,"
+                  Florissant, MO
+                ","
+                  60s
+                  ","
+          (314) 839-1083
+        ","
+              1653 Emerald Creek Dr
+              Florissant, MO 63031
+            "
+45,Edna E Novel,"
+                  Glen Dale, WV
+                ","
+                  80+
+                  ","
+          (304) 845-3466
+        ","
+              488 Little Grave Creek Dr
+              Glen Dale, WV 26038
+            "
+46,Audrey A Novel,"
+                  Mc Kean, PA
+                ","
+                  60s
+                  ","
+          (814) 476-7372
+        ","
+              8446 Edinboro Rd
+              Mc Kean, PA 16426
+            "
+47,Carrie L Novel,"
+                  Bakersfield, CA
+                ","
+                  50s
+                  ","
+          (661) 397-4156
+        ","
+              5510 Kettle Dome St
+              Bakersfield, CA 93307
+            "
+48,Mamie Novel,"
+                  Bakersfield, CA
+                ","
+                  60s
+                  ","
+          (661) 873-9115
+        ","
+              2712 Cardinal Ave
+              Bakersfield, CA 93306
+            "
+49,Charles E Novel,"
+                  Memphis, TN
+                ","
+                  80+
+                  ","
+          (901) 682-0204
+        ","
+              200 Meadowgrove Ln
+              Memphis, TN 38120
+            "
+50,Gary Anthony Novel,"
+                  Sugar Grove, IL
+                ","
+                  60s
+                  ","
+          (630) 264-7600
+        ","
+              216B Brompton Ln
+              Sugar Grove, IL 60554
+            "
+51,A Spirit Novel,"
+                  Dublin, OH
+                ","
+                  40s
+                  ","
+          (310) 247-9375
+        ","
+              5353 Sunlight Ct
+              Dublin, OH 43016
+            "
+52,Dennis E Novel,"
+                  Wright City, MO
+                ","
+                  40s
+                  ","
+          (636) 578-6473
+        ","
+              97 N Circle Dr
+              Wright City, MO 63390
+            "
+53,Robert Novel,"
+                  New Orleans, LA
+                ","
+                  20s
+                  ","
+          (504) 288-6262
+        ","
+              1262 Caton St
+              New Orleans, LA 70122
+            "
+54,Donna J Novel,"
+                  Moundsville, WV
+                ","
+                  80+
+                  ","
+          (304) 845-4735
+        ","
+              1531 8th St
+              Moundsville, WV 26041
+            "
+55,Victoria Novel,"
+                  Erie, PA
+                ","
+                  20s
+                  ","
+          (814) 454-0170
+        ","
+              758 E 8th St
+              Erie, PA 16503
+            "
+56,Louis D Novel,"
+                  New London, MO
+                ","
+                  80+
+                  ","
+          (573) 221-4269
+        ","
+              62316 Highway N
+              New London, MO 63459
+            "
+57,Steven E Novel,"
+                  Foristell, MO
+                ","
+                  60s
+                  ","
+          (636) 673-2560
+        ","
+              192 Highway W
+              Foristell, MO 63348
+            "
+58,Terea Novel,"
+                  Saint Paul, MN
+                ","
+                  --
+                  ","
+          (651) 776-0865
+        ","
+              864 Jenks Ave Apt Lowr
+              Saint Paul, MN 55106
+            "
+59,Frederick J Novel,"
+                  Luray, VA
+                ","
+                  50s
+                  ","
+          (540) 778-1725
+        ","
+              1125 E Main St Apt 2
+              Luray, VA 22835
+            "
+60,Jessica Novel,"
+                  Wentzville, MO
+                ","
+                  30s
+                  ","
+          (636) 398-5514
+        ","
+              546 Briar Meadows Ct
+              Wentzville, MO 63385
+            "
+61,Marjan Novel,"
+                  Tarzana, CA
+                ","
+                  30s
+                  ","
+          (310) 858-2227
+        ","
+              4525 Azalia Dr
+              Tarzana, CA 91356
+            "
+62,Terea Novel,"
+                  Saint Paul, MN
+                ","
+                  --
+                  ","
+          (651) 776-0865
+        ","
+              864 Jenks Ave Apt Lowr
+              Saint Paul, MN 55106
+            "
+63,Frederick J Novel,"
+                  Luray, VA
+                ","
+                  50s
+                  ","
+          (540) 778-1725
+        ","
+              1125 E Main St Apt 2
+              Luray, VA 22835
+            "
+64,Joey E Novel,"
+                  Union, MO
+                ","
+                  40s
+                  ","
+          (314) 725-1862
+        ","
+              11 S Christina Ave
+              Union, MO 63084
+            "
+65,Geraldine L Novel,"
+                  San Jose, CA
+                ","
+                  80+
+                  ","
+          (408) 274-4446
+        ","
+              5462 Cribari Grn
+              San Jose, CA 95135
+            "
+66,Victory J Novel,"
+                  Los Angeles, CA
+                ","
+                  60s
+                  ","
+              Beverly Hills, CA
+            ","
+              445 Ulysses St
+              Los Angeles, CA 90065
+            "
+67,Darren Novel,"
+                  Old Westbury, NY
+                ","
+                  20s
+                  ","
+              Roslyn Heights, NY
+            ","
+              2 Colt Pl
+              Old Westbury, NY 11568
+            "
+68,A Novel,"
+                  Mansfield, OH
+                ","
+                  50s
+                  ","
+          (814) 476-7308
+        ","
+              97 Lexington Ave
+              Mansfield, OH 44907
+            "
+69,Sandra L Novel,"
+                  Moundsville, WV
+                ","
+                  50s
+                  ","
+          No previous locations found.
+        ","
+              430 Annadale Ave
+              Moundsville, WV 26041
+            "
+70,Wendy R Novel,"
+                  Erie, PA
+                ","
+                  50s
+                  ","
+          (814) 871-6323
+        ","
+              758 E 8th St
+              Erie, PA 16503
+            "
+71,Lida Novel,"
+                  Los Angeles, CA
+                ","
+                  70s
+                  ","
+          No previous locations found.
+        ","
+              11718 Montana Ave
+              Los Angeles, CA 90049
+            "
+72,Shirley F Novel,"
+                  Punta Gorda, FL
+                ","
+                  70s
+                  ","
+          (941) 639-3131
+        ","
+              304 Sailfish Ln
+              Punta Gorda, FL 33982
+            "
+73,Timothy Novel,"
+                  Chicago, IL
+                ","
+                  30s
+                  ","
+          (312) 698-7355
+        ","
+              330 N Wabash Ave Ste 1700
+              Chicago, IL 60611
+            "
+74,Angel M Novel,"
+                  Saint Louis, MO
+                ","
+                  40s
+                  ","
+          (314) 226-9161
+        ","
+              752 Radcliffe Ave
+              Saint Louis, MO 63130
+            "
